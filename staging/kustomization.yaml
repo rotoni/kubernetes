@@ -1,0 +1,5 @@
+bases:
+- ./../base
+
+namePrefix: staging-
+namespace: staging
